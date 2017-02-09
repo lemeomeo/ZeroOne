@@ -95,4 +95,4 @@ with open("morse") as f:
 	print value
 ```
 
-The result is ALEXCTFTH15O1SO5UP3RO5ECR3TOTXT, formatting the flag for a bit into *ALEXCTF{TH15_1S_5UP3R_5ECR3T_TXT}*
+The result is ALEXCTFTH15O1SO5UP3RO5ECR3TOTXT, formatting the flag for a bit into **ALEXCTF{TH15_1S_5UP3R_5ECR3T_TXT}**
